@@ -36,16 +36,19 @@ To run this project locally, follow these steps:
    git clone [https://github.com/YOUR_USERNAME/heart-disease-project.git](https://github.com/YOUR_USERNAME/heart-disease-project.git)
 
 2. **Create a virtual environment:**
+   ```bash
    python -m venv env
 
-3. **Activate the environment:**
+4. **Activate the environment:**
+   ```bash
    Windows: .\env\Scripts\activate
    Mac/Linux: source env/bin/activate
 
-4. **Install the required libraries:**
+6. **Install the required libraries:**
+   ```bash
    pip install -r requirements.txt
 
-5. **Launch Jupyter Notebook:**
+8. **Launch Jupyter Notebook:**
    jupyter notebook
 
 ## 📈 Conclusion

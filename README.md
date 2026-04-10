@@ -1,6 +1,6 @@
 # Heart Disease Classification 🩺
 
-This project uses Machine Learning to predict whether a patient has heart disease based on their medical attributes. By analyzing clinical data, we developed a model capable of assisting in medical diagnosis with high accuracy.
+This project uses Machine Learning to predict whether a patient has heart disease based on their medical attributes. By analyzing clinical data, i developed a model capable of assisting in medical diagnosis with high accuracy.
 
 ## 📊 Project Overview & Results
 I experimented with three different machine learning models to find the most reliable predictor. After comparing their baseline performance and tuning their hyperparameters, the results were:
